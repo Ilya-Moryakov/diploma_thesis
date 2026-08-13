@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Testing cache
+.pytest_cache/
+.pytest-cache/
+.allure_pytest/
+allure-results/
+allure-report/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environments & Secrets
+.env
+venv/
+env/
+*.exe
+*.log
